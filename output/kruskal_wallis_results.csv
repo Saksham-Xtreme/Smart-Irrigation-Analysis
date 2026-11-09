@@ -1,0 +1,2 @@
+Test,Variable,Group,H_Statistic,Degrees_Freedom,P_Value,Epsilon_Squared
+Kruskal-Wallis,Soil_Moisture,Irrigation_Need,127598.78066481272,2,0,0.20253933438859162

@@ -1,0 +1,45 @@
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# R Markdown / rendering cache
+*_cache/
+*_files/
+.knit_cache/
+
+# Shiny temporary files
+rsconnect/
+shinyapps/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Large datasets (download separately if excluded)
+# Uncomment if you do not want to upload CSV datasets:
+# data/raw/*.csv
+# data/processed/*.csv
+
+# Generated temporary files
+.Rcheck/
